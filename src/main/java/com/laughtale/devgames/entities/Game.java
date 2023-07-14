@@ -1,4 +1,4 @@
-package com.laughtale.devgames.model;
+package com.laughtale.devgames.entities;
 
 import jakarta.persistence.*;
 
